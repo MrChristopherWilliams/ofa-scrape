@@ -1,4 +1,4 @@
-# Scrape of OFA database
+# Scrape of database
 require 'watir'
 require 'webdrivers'
 require 'open-uri'
