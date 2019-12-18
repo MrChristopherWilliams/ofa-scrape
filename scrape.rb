@@ -5,7 +5,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'csv'
 
-# Open Oxbridge Founders
+# Open website
 browser = Watir::Browser.new
 browser.goto 'secret'
 
